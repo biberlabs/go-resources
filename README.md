@@ -1,10 +1,12 @@
 A curated list of tutorials, articles, slides, books and videos about Go programing language.
 
 ## Slides
- - [Go at Google](https://talks.golang.org/2012/splash.slide) by [Rob Pike](https://twitter.com/rob_pike) - Slides from SPLASH, Tucson, Oct 25, 2012
+ - [Go at Google](https://talks.golang.org/2012/splash.slide) by [Rob Pike](https://twitter.com/rob_pike) - Slides from SPLASH, Tucson. (October 2012)
+ - [Go: The Cool Parts](https://speakerdeck.com/campoy/go-the-cool-parts) by [Frances Campoy](https://twitter.com/francesc) - An introductory talk to Go where we will discuss why Go's popularity is raising so fast. Presented at [Øredev](http://oredev.org/2015/sessions/go-the-cool-parts) (Vimeo).
 
 ## Videos
  - [Go Programming](https://www.youtube.com/watch?v=CF9S4QZuV30) (Youtube, 52:57) - Introduction to Go Programming by Derek Banas.
+ - [Go: The Cool Parts](https://vimeo.com/144639088) (Vimeo, 37:53) - An introductory talk to Go by [Frances Campoy](https://twitter.com/francesc) (Øredev Conference, 2015)
 
 ## Articles
  - [A Closer Look at Golang From an Architect’s Perspective](http://thenewstack.io/a-closer-look-at-golang-from-an-architects-perspective/) by [Shiju Varghese](https://github.com/shijuvar)  - Golang from an architect’s perspective to show individual aspects of the language. (June 2015)
