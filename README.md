@@ -18,7 +18,8 @@ A curated list of tutorials, articles, slides, books and videos about Go program
  - [Practical Persistence in Go](http://www.alexedwards.net/blog/organising-database-access) - An article about organising database access in Go by [Alex Edwards](https://twitter.com/ajmedwards) (July 2015)
 
 ## Books
- - [The Way To Go](http://www.amazon.com/Way-Go-Thorough-Introduction-Programming/dp/1469769166) (628 pages, March 2012) - A Thorough Introduction To The Go Programming Language. (Author: Ivo Balbaert)
+  - [An Introduction to Programming in Go](http://www.golang-book.com/books/intro) (161 Pages, 2012) - A free book about short, concise introduction to computer programming using the language Go. (Author: Caleb Doxsey)
+  - [The Way To Go](http://www.amazon.com/Way-Go-Thorough-Introduction-Programming/dp/1469769166) (628 pages, March 2012) - A Thorough Introduction To The Go Programming Language. (Author: Ivo Balbaert)
 
 ## Other Goodies
  - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software by [Thiago Avelino](https://github.com/avelino)
