@@ -1,4 +1,3 @@
-# Go Resources
 A curated list of tutorials, articles, slides, books and videos about Go programing language.
 
 ## Slides
