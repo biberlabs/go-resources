@@ -1,4 +1,4 @@
-A curated list of tutorials, articles, slides, books and videos about Go programing language.
+A curated list of tutorials, articles, slides, videos and books about Go programming language.
 
 ## Slides
  - [Go at Google](https://talks.golang.org/2012/splash.slide) - Slides from SPLASH, Tucson by [Rob Pike](https://twitter.com/rob_pike) (October 2012)
