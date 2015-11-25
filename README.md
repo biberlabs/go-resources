@@ -5,6 +5,7 @@ A curated list of tutorials, articles, slides, books and videos about Go program
  - [Go: The Cool Parts](https://speakerdeck.com/campoy/go-the-cool-parts) by [Frances Campoy](https://twitter.com/francesc) - An introductory talk to Go where we will discuss why Go's popularity is raising so fast. Presented at [Øredev](http://oredev.org/2015/sessions/go-the-cool-parts) (Vimeo).
 
 ## Videos
+ - [Common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI) (Youtube, 27:57) - [Steve Francia](https://twitter.com/spf13) talks about most common mistakes in Go. (Gopherfest 2015)
  - [Go Programming](https://www.youtube.com/watch?v=CF9S4QZuV30) (Youtube, 52:57) - Introduction to Go Programming by Derek Banas.
  - [Go: The Cool Parts](https://vimeo.com/144639088) (Vimeo, 37:53) - An introductory talk to Go by [Frances Campoy](https://twitter.com/francesc) (Øredev Conference, 2015)
 
