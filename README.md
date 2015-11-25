@@ -18,6 +18,7 @@ A curated list of tutorials, articles, slides, books and videos about Go program
 
 ## Other Goodies
  - [Awesome Go](https://github.com/avelino/awesome-go) by [Thiago Avelino](https://github.com/avelino) - A curated list of awesome Go frameworks, libraries and software.
+ - [Go by Example](https://gobyexample.com/) by [Mark McGranaghan](https://twitter.com/mmcgrana) - Hands-on introduction to Go using annotated example programs.
  - [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) by [Ariel Mashraki](https://github.com/a8m) - An overview of Go syntax and features.
 
 ---
