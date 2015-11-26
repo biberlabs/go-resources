@@ -2,13 +2,15 @@ A curated list of tutorials, articles, slides, videos and books about Go program
 
 ## Slides
  - [Go at Google](https://talks.golang.org/2012/splash.slide) - Slides from SPLASH, Tucson by [Rob Pike](https://twitter.com/rob_pike) (October 2012)
+ - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide) - Slides of the Rob Pike's presentation on Google I/O (2012)
  - [Go: The Cool Parts](https://speakerdeck.com/campoy/go-the-cool-parts) - An introductory talk to Go where we will discuss why Go's popularity is raising so fast. Presented at [Øredev](http://oredev.org/2015/sessions/go-the-cool-parts) by [Frances Campoy](https://twitter.com/francesc) (Vimeo).
-  - [Organizing Go Code](https://talks.golang.org/2014/organizeio.slide) - Presented at Google I/O 2014 by [David Crawshaw](https://github.com/crawshaw).
+ - [Organizing Go Code](https://talks.golang.org/2014/organizeio.slide) - Presented at Google I/O 2014 by [David Crawshaw](https://github.com/crawshaw).
 
 ## Videos
  - [Build Web Apps with Go Language](https://www.youtube.com/watch?v=Vlie-srOU8c) (Youtube, 1:37:40) - A good screencast about building web applications with Go by [Todd McLeod](https://github.com/GoesToEleven) (May 2015)  
  - [Common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI) (Youtube, 27:57) - [Steve Francia](https://twitter.com/spf13) talks about most common mistakes in Go. (Gopherfest 2015)
  - [Get Started with Go](https://www.youtube.com/watch?v=2KmHtgtEZ1s) (Youtube, 24:44) - An excellent GO tutorial by [Andrew Gerrand](https://twitter.com/enneff). (Aug 2012)
+ - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide) (Youtube, 51:26) - Presentation about Go's concurrency capablities by Rob Pike (Google I/O 2012)
  - [Go Programming](https://www.youtube.com/watch?v=CF9S4QZuV30) (Youtube, 52:57) - Introduction to Go Programming by Derek Banas.
  - [Go: The Cool Parts](https://vimeo.com/144639088) (Vimeo, 37:53) - An introductory talk to Go by [Frances Campoy](https://twitter.com/francesc) (Øredev Conference, 2015)
 
@@ -24,10 +26,10 @@ A curated list of tutorials, articles, slides, videos and books about Go program
   - [The Way To Go](http://www.amazon.com/Way-Go-Thorough-Introduction-Programming/dp/1469769166) (628 pages, March 2012) - A Thorough Introduction To The Go Programming Language. (Author: Ivo Balbaert)
 
 ## Other Goodies
- - [Golang Official Wiki](https://github.com/golang/go/wiki) - Official go wiki, a collection of information about the Go Programming Language on Github.
  - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software by [Thiago Avelino](https://github.com/avelino)
  - [Go by Example](https://gobyexample.com/) - Hands-on introduction to Go using annotated example programs by [Mark McGranaghan](https://twitter.com/mmcgrana)
  - [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) - An overview of Go syntax and features by [Ariel Mashraki](https://github.com/a8m).
+ - [Golang Official Wiki](https://github.com/golang/go/wiki) - Official go wiki, a collection of information about the Go Programming Language on Github.
 
 ---
 
