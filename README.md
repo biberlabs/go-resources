@@ -23,6 +23,7 @@ A curated list of tutorials, articles, slides, videos and books about Go program
 ## Books
   - [An Introduction to Programming in Go](http://www.golang-book.com/books/intro) (161 Pages, 2012) - A free book about short, concise introduction to computer programming using the language Go. (Author: Caleb Doxsey)
   - [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go) (40 pages) - Learn how to build and deploy web applications with Go (Author: Jeremy Saenz)
+  - [Learning Go](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf) (112 Pages, PDF, 2012) - An introduction to the Go language from Google, which aims to provide a guide to this new and innovative language. (Author: Miek Gieben)
   - [The Go Programming Language](http://www.gopl.io/) (380 Pages, 2015) - This book is meant to help you start using Go effectively right away and to use it well, taking full advantage of Go’s language features and standard libraries to write clear, idiomatic and efficient programs. (Authors: Alan A. A. Donovan & Brian W. Kernighan)
   - [The Way To Go](http://www.amazon.com/Way-Go-Thorough-Introduction-Programming/dp/1469769166) (628 pages, March 2012) - A Thorough Introduction To The Go Programming Language. (Author: Ivo Balbaert)
 
