@@ -11,6 +11,7 @@ A curated list of tutorials, articles, slides, videos and books about Go program
  - [Common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI) (Youtube, 27:57) - [Steve Francia](https://twitter.com/spf13) talks about most common mistakes in Go. (Gopherfest 2015)
  - [Get Started with Go](https://www.youtube.com/watch?v=2KmHtgtEZ1s) (Youtube, 24:44) - An excellent GO tutorial by [Andrew Gerrand](https://twitter.com/enneff). (Aug 2012)
  - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide) (Youtube, 51:26) - Presentation about Go's concurrency capablities by Rob Pike (Google I/O 2012)
+ - [Json, Interfaces & Go Generate](https://www.youtube.com/watch?v=YgnD27GFcyA) (Youtube, 32:24) - Francesc Campoy talks about JSON encoding and decoding, interfaces, and the new "go generate" command at London Go Gathering. (2015)
  - [Go Programming](https://www.youtube.com/watch?v=CF9S4QZuV30) (Youtube, 52:57) - Introduction to Go Programming by Derek Banas.
  - [Go: The Cool Parts](https://vimeo.com/144639088) (Vimeo, 37:53) - An introductory talk to Go by [Frances Campoy](https://twitter.com/francesc) (Øredev Conference, 2015)
 
