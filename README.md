@@ -27,6 +27,7 @@ A curated list of tutorials, articles, slides, videos and books about Go program
   - [Learning Go](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf) (112 Pages, PDF, 2012) - An introduction to the Go language from Google, which aims to provide a guide to this new and innovative language. (Author: Miek Gieben)
   - [The Go Programming Language](http://www.gopl.io/) (380 Pages, 2015) - This book is meant to help you start using Go effectively right away and to use it well, taking full advantage of Go’s language features and standard libraries to write clear, idiomatic and efficient programs. (Authors: Alan A. A. Donovan & Brian W. Kernighan)
   - [The Way To Go](http://www.amazon.com/Way-Go-Thorough-Introduction-Programming/dp/1469769166) (628 pages, March 2012) - A Thorough Introduction To The Go Programming Language. (Author: Ivo Balbaert)
+  - [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read) (151 pages, 2014) - Leanpub. (Author: Eleanor McHugh)
 
 ## Other Goodies
  - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software by [Thiago Avelino](https://github.com/avelino)
