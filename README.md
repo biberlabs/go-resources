@@ -19,6 +19,7 @@ A curated list of tutorials, articles, slides, videos and books about Go program
  - [A Closer Look at Golang From an Architect’s Perspective](http://thenewstack.io/a-closer-look-at-golang-from-an-architects-perspective/) - Golang from an architect’s perspective to show individual aspects of the language by [Shiju Varghese](https://github.com/shijuvar) (June 2015)
  - [Effective Go](https://golang.org/doc/effective_go.html) - Official must-read documentation.
  - [Go Object Oriented Design](https://nathany.com/good/) - Translation of the [Practical Object-Oriented Programming in Ruby](http://www.poodr.com/) examples to Go by [Nathan Youngman](https://github.com/nathany).
+  - [Illustrated Guide to SQLX](https://jmoiron.github.io/sqlx/) - [Sqlx](https://github.com/jmoiron/sqlx) is a package for Go which provides a set of extensions on top of the excellent built-in database/sql package. This article examines Go idioms and documents sqlx package usage. (Jason Moiron, 2015)
  - [Practical Persistence in Go](http://www.alexedwards.net/blog/organising-database-access) - An article about organising database access in Go by [Alex Edwards](https://twitter.com/ajmedwards) (July 2015)
 
 ## Books
