@@ -10,14 +10,16 @@ A curated list of tutorials, articles, slides, videos and books about Go program
  - [Build Web Apps with Go Language](https://www.youtube.com/watch?v=Vlie-srOU8c) (Youtube, 1:37:40) - A good screencast about building web applications with Go by [Todd McLeod](https://github.com/GoesToEleven) (May 2015)  
  - [Common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI) (Youtube, 27:57) - [Steve Francia](https://twitter.com/spf13) talks about most common mistakes in Go. (Gopherfest 2015)
  - [Get Started with Go](https://www.youtube.com/watch?v=2KmHtgtEZ1s) (Youtube, 24:44) - An excellent GO tutorial by [Andrew Gerrand](https://twitter.com/enneff). (Aug 2012)
+ - [Go and the Modern Enterprise](https://www.youtube.com/watch?v=iFR_7AKkJFU) (Youtube, 35:52) - Peter Bourgon talks about Go's place in the Modern Enterprise and introduces the [gokit project](http://gokit.io). (London Go Gathering, 2015)
  - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide) (Youtube, 51:26) - Presentation about Go's concurrency capablities by Rob Pike (Google I/O 2012)
- - [Json, Interfaces & Go Generate](https://www.youtube.com/watch?v=YgnD27GFcyA) (Youtube, 32:24) - Francesc Campoy talks about JSON encoding and decoding, interfaces, and the new "go generate" command at London Go Gathering. (2015)
  - [Go Programming](https://www.youtube.com/watch?v=CF9S4QZuV30) (Youtube, 52:57) - Introduction to Go Programming by Derek Banas.
  - [Go: The Cool Parts](https://vimeo.com/144639088) (Vimeo, 37:53) - An introductory talk to Go by [Frances Campoy](https://twitter.com/francesc) (Øredev Conference, 2015)
+ - [Json, Interfaces & Go Generate](https://www.youtube.com/watch?v=YgnD27GFcyA) (Youtube, 32:24) - Francesc Campoy talks about JSON encoding and decoding, interfaces, and the new "go generate" command at London Go Gathering. (2015)
 
 ## Articles
  - [A Closer Look at Golang From an Architect’s Perspective](http://thenewstack.io/a-closer-look-at-golang-from-an-architects-perspective/) - Golang from an architect’s perspective to show individual aspects of the language by [Shiju Varghese](https://github.com/shijuvar) (June 2015)
  - [Effective Go](https://golang.org/doc/effective_go.html) - Official must-read documentation.
+ - [Go kit: Go in the modern enterprise](http://peter.bourgon.org/go-kit/) - Article about the original talk in February 2015 at FOSDEM and the Google Campus London meetup. (February 2015)
  - [Go Object Oriented Design](https://nathany.com/good/) - Translation of the [Practical Object-Oriented Programming in Ruby](http://www.poodr.com/) examples to Go by [Nathan Youngman](https://github.com/nathany).
  - [Illustrated Guide to SQLX](https://jmoiron.github.io/sqlx/) - [Sqlx](https://github.com/jmoiron/sqlx) is a package for Go which provides a set of extensions on top of the excellent built-in database/sql package. This article examines Go idioms and documents sqlx package usage. (Jason Moiron, 2015)
  - [Practical Persistence in Go](http://www.alexedwards.net/blog/organising-database-access) - An article about organising database access in Go by [Alex Edwards](https://twitter.com/ajmedwards) (July 2015)
