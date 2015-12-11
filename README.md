@@ -36,6 +36,7 @@ A curated list of tutorials, articles, slides, videos and books about Go program
   - [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read) (151 pages, 2014) - Leanpub. (Author: Eleanor McHugh)
 
 ## Other Goodies
+ - [A Tour of Go](https://tour.golang.org/welcome/1) - Official iteractive tour of the Go programming language.
  - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software by [Thiago Avelino](https://github.com/avelino)
  - [Go by Example](https://gobyexample.com/) - Hands-on introduction to Go using annotated example programs by [Mark McGranaghan](https://twitter.com/mmcgrana)
  - [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) - An overview of Go syntax and features by [Ariel Mashraki](https://github.com/a8m).
