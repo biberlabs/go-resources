@@ -15,6 +15,7 @@ A curated list of tutorials, articles, slides, videos and books about Go program
  - [Go Programming](https://www.youtube.com/watch?v=CF9S4QZuV30) (Youtube, 52:57) - Introduction to Go Programming by Derek Banas.
  - [Go: The Cool Parts](https://vimeo.com/144639088) (Vimeo, 37:53) - An introductory talk to Go by [Frances Campoy](https://twitter.com/francesc) (Øredev Conference, 2015)
  - [Json, Interfaces & Go Generate](https://www.youtube.com/watch?v=YgnD27GFcyA) (Youtube, 32:24) - Francesc Campoy talks about JSON encoding and decoding, interfaces, and the new "go generate" command at London Go Gathering. (2015)
+ - [Vendoring Your Dependencies](https://www.youtube.com/watch?v=AIo0UBcvnPg) (Youtube, 5:53) - Explains what vendoring is and why you should do it to get reproducible builds. (November 2015)
 
 ## Articles
  - [A Closer Look at Golang From an Architect’s Perspective](http://thenewstack.io/a-closer-look-at-golang-from-an-architects-perspective/) - Golang from an architect’s perspective to show individual aspects of the language by [Shiju Varghese](https://github.com/shijuvar) (June 2015)
