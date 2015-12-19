@@ -4,6 +4,7 @@ A curated list of tutorials, articles, slides, videos and books about Go program
  - [Go at Google](https://talks.golang.org/2012/splash.slide) - Slides from SPLASH, Tucson by [Rob Pike](https://twitter.com/rob_pike) (October 2012)
  - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide) - Slides of the Rob Pike's presentation on Google I/O (2012)
  - [Go: The Cool Parts](https://speakerdeck.com/campoy/go-the-cool-parts) - An introductory talk to Go where we will discuss why Go's popularity is raising so fast. Presented at [Øredev](http://oredev.org/2015/sessions/go-the-cool-parts) by [Frances Campoy](https://twitter.com/francesc) (Vimeo).
+- [Golang ORMs](http://present.go-steel-programmers.org/talk-review-orms/gsp-go-orms.slide) - A survey of the current state of Golang ORMs. (Jan 2014, Jesse Szwedko)
  - [Organizing Go Code](https://talks.golang.org/2014/organizeio.slide) - Presented at Google I/O 2014 by [David Crawshaw](https://github.com/crawshaw).
 
 ## Videos
