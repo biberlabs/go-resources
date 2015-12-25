@@ -9,6 +9,7 @@ A curated list of tutorials, articles, slides, videos and books about Go program
  - [Organizing Go Code](https://talks.golang.org/2014/organizeio.slide) - Presented at Google I/O 2014 by [David Crawshaw](https://github.com/crawshaw).
 
 ## Videos
+ - [Another Go at Language Design](https://www.youtube.com/watch?v=7VcArS4Wpqk) (Youtube, 1:15:43) - Rob Pike, a Principal Engineer at Google, Inc., discusses possible reasons why new computer languages keep appearing and why they led Google engineers to define yet another language, Go. (Aug 2010)
  - [Build Web Apps with Go Language](https://www.youtube.com/watch?v=Vlie-srOU8c) (Youtube, 1:37:40) - A good screencast about building web applications with Go by [Todd McLeod](https://github.com/GoesToEleven) (May 2015)  
  - [Common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI) (Youtube, 27:57) - [Steve Francia](https://twitter.com/spf13) talks about most common mistakes in Go. (Gopherfest 2015)
  - [Get Started with Go](https://www.youtube.com/watch?v=2KmHtgtEZ1s) (Youtube, 24:44) - An excellent GO tutorial by [Andrew Gerrand](https://twitter.com/enneff). (Aug 2012)
