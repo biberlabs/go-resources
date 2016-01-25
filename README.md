@@ -34,6 +34,7 @@ A curated list of tutorials, articles, slides, videos and books about Go program
  - [Iterators in Go](http://ewencp.org/blog/golang-iterators/) - A Survey of Iterator (or Generator) Patterns in golang by Ewen Cheslack-Postava (September 2013)
  - [Making an extensible wiki system with Go](http://jamesadam.me/index.php/2015/11/03/making-an-extensible-wiki-system-with-go/) by [James Adam](https://github.com/rhinoman) - Covers writing a single-page web application which provides an extensible wiki system using Go, Backbone and Marionette. (November 2015)
  - [Practical Persistence in Go](http://www.alexedwards.net/blog/organising-database-access) - An article about organising database access in Go by [Alex Edwards](https://twitter.com/ajmedwards) (July 2015)
+ - [The factory method pattern in Go](http://matthewbrown.io/2016/01/23/factory-pattern-in-golang/) - Factory design pattern implementation in golang by [Matthew Brown](https://twitter.com/mnbbrown). (January 2016)
 
 ## Books
   - [An Introduction to Programming in Go](http://www.golang-book.com/books/intro) (161 Pages, 2012) - A free book about short, concise introduction to computer programming using the language Go. (Author: Caleb Doxsey)
