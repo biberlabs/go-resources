@@ -16,6 +16,7 @@ A curated list of tutorials, articles, slides, videos and books about Go program
  - [Making an extensible wiki system with Go](http://jamesadam.me/index.php/2015/11/03/making-an-extensible-wiki-system-with-go/) by [James Adam](https://github.com/rhinoman) - Covers writing a single-page web application which provides an extensible wiki system using Go, Backbone and Marionette. (November 2015)
  - [Practical Persistence in Go](http://www.alexedwards.net/blog/organising-database-access) - An article about organising database access in Go by [Alex Edwards](https://twitter.com/ajmedwards) (July 2015)
  - [The factory method pattern in Go](http://matthewbrown.io/2016/01/23/factory-pattern-in-golang/) - Factory design pattern implementation in golang by [Matthew Brown](https://twitter.com/mnbbrown). (January 2016)
+ - [Time in Go: A primer](https://machiel.me/post/time-in-go-a-primer/) - A blog post which covers date formatting, locations, parsing, datetime comparison & calculations with Go by Machiel Molenaar. (April 2016)
  - [Visualizing Concurrency in Go](https://divan.github.io/posts/go_concurrency_visualize/) - A very detailed article about visualizing common concurrency patterns using Go and WebGL by [Ivan Daniluk](https://github.com/divan). (January 2016)
 
 ## Videos
