@@ -44,12 +44,17 @@ A curated list of tutorials, articles, slides, videos and books about Go program
 
 ## Books
   - [An Introduction to Programming in Go](http://www.golang-book.com/books/intro) (161 Pages, 2012) - A free book about short, concise introduction to computer programming using the language Go. (Author: Caleb Doxsey)
+  - [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read) (151 pages, 2014) - Leanpub. (Author: Eleanor McHugh)
+  - [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) - An open source book that takes you through the steps of developing a web application in Go. (Author: astaxie - Available in [PDF](https://www.gitbook.com/download/pdf/book/astaxie/build-web-application-with-golang?lang=en), [ePub](https://www.gitbook.com/download/epub/book/astaxie/build-web-application-with-golang?lang=en), [Mobi](https://www.gitbook.com/download/mobi/book/astaxie/build-web-application-with-golang?lang=en))
   - [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go) (40 pages) - Learn how to build and deploy web applications with Go (Author: Jeremy Saenz)
+  - [Go Bootcamp](http://www.golangbootcamp.com/book) - Everything you need to know to get started with Go. (Author: Matt Aimonetti)
   - [Go In Action](https://www.manning.com/books/go-in-action) (264 Pages, November 2015) - Go in Action introduces the Go Language with unique features and concepts.(Authors: William Kennedy, Brian Ketelsen, Erik St. Martin)
   - [Learning Go](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf) (112 Pages, PDF, 2012) - An introduction to the Go language from Google, which aims to provide a guide to this new and innovative language. (Author: Miek Gieben)
+  - [Network programming with Go](https://jan.newmarch.name/go/) - An e-book on building network applications using the Google Go programming language. (2012, Covers Go 1. Author: [Jan Newmarch](http://jan.newmarch.name/)) 
   - [The Go Programming Language](http://www.gopl.io/) (380 Pages, 2015) - This book is meant to help you start using Go effectively right away and to use it well, taking full advantage of Go’s language features and standard libraries to write clear, idiomatic and efficient programs. (Authors: Alan A. A. Donovan & Brian W. Kernighan)
+  - [The Little Go Book](http://openmymind.net/The-Little-Go-Book/) - The Little Go Book is a free introduction to Google's Go programming language. It's aimed at developers who might not be quite comfortable with the idea of pointers and static typing. (October 2014, Author: Karl Seguin)
   - [The Way To Go](http://www.amazon.com/Way-Go-Thorough-Introduction-Programming/dp/1469769166) (628 pages, March 2012) - A Thorough Introduction To The Go Programming Language. (Author: Ivo Balbaert)
-  - [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read) (151 pages, 2014) - Leanpub. (Author: Eleanor McHugh)
+
 
 ## Other Goodies
  - [A Tour of Go](https://tour.golang.org/welcome/1) - Official interactive tour of the Go programming language. Available in [16 languages](https://tour.golang.org/welcome/2).
