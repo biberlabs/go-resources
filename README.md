@@ -29,6 +29,7 @@ A curated list of tutorials, articles, slides, videos and books about Go program
  - [Go and the Modern Enterprise](https://www.youtube.com/watch?v=iFR_7AKkJFU) (Youtube, 35:52) - Peter Bourgon talks about Go's place in the Modern Enterprise and introduces the [gokit project](http://gokit.io). (London Go Gathering, 2015)
  - [Go Concurrency Patterns](https://talks.golang.org/2012/concurrency.slide) (Youtube, 51:26) - Presentation about Go's concurrency capablities by Rob Pike (Google I/O 2012)
  - [Go Programming](https://www.youtube.com/watch?v=CF9S4QZuV30) (Youtube, 52:57) - Introduction to Go Programming by Derek Banas.
+ - [Go Tooling In Action](https://www.youtube.com/watch?v=uBjoTxosSys) (Youtube, 41:50) - An awesome screencast introducing dozen of tips on go tooling, testing, profiling and benchmarking. ([Francesc Campoy](https://twitter.com/francesc), 2016)
  - [Go: The Cool Parts](https://vimeo.com/144639088) (Vimeo, 37:53) - An introductory talk to Go by [Frances Campoy](https://twitter.com/francesc) (Øredev Conference, 2015)
  - [Json, Interfaces & Go Generate](https://www.youtube.com/watch?v=YgnD27GFcyA) (Youtube, 32:24) - Francesc Campoy talks about JSON encoding and decoding, interfaces, and the new "go generate" command at London Go Gathering. (2015)
  - [Vendoring Your Dependencies](https://www.youtube.com/watch?v=AIo0UBcvnPg) (Youtube, 5:53) - Explains what vendoring is and why you should do it to get reproducible builds. (November 2015)
