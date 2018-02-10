@@ -63,6 +63,7 @@ A curated list of tutorials, articles, slides, videos and books about Go program
  - [Go by Example](https://gobyexample.com/) - Hands-on introduction to Go using annotated example programs by [Mark McGranaghan](https://twitter.com/mmcgrana)
  - [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) - An overview of Go syntax and features by [Ariel Mashraki](https://github.com/a8m).
  - [Golang Official Wiki](https://github.com/golang/go/wiki) - Official go wiki, a collection of information about the Go Programming Language on Github.
+ - [Curated Go Resources](https://hackr.io/tutorials/learn-golang) - recommended resources voted by Programming Community.
 
 ---
 
